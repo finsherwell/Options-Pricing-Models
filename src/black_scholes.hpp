@@ -3,7 +3,7 @@
 #include <cmath>
 #include <algorithm>
 
-#include "utils.h"
+#include "utils.cpp"
 
 namespace opm {
 
